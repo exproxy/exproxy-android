@@ -4,9 +4,9 @@ dexMaxHeap := "4g"
 enablePlugins(AndroidApp)
 android.useSupportVectors
 
-name := "shadowsocksr"
+name := "exproxy"
 
-applicationId := "in.zhaoj.shadowsocksrr"
+applicationId := "com.github.exproxy"
 
 platformTarget := "android-25"
 
